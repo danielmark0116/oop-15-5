@@ -1,0 +1,7 @@
+.margin {
+  margin-top: 2rem !important;
+}
+button {
+  display: block !important;
+  margin: 1rem 0 !important;
+}
